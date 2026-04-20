@@ -14,5 +14,5 @@ Imagem do esboço (wireframe) criado para o projeto:
 
 Print da home-page criada para o projeto.
 
-![alt text](Printhomepage.png)
+![alt text](Print.png)
 
