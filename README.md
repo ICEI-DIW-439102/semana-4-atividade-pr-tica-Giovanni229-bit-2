@@ -10,7 +10,7 @@ Breve descrição sobre o projeto: O projeto aborda sobre pessoas históricas, s
 
 Imagem do esboço (wireframe) criado para o projeto:
 
-<img src="c:\Users\ivany\OneDrive\Videos\Captures\WIREFRAME.png"
+<img src="WIREFRAME.png"
 
 Print da home-page criada para o projeto.
 
