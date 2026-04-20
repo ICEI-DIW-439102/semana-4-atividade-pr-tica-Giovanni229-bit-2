@@ -10,8 +10,8 @@ Breve descrição sobre o projeto: O projeto aborda sobre pessoas históricas, s
 
 Imagem do esboço (wireframe) criado para o projeto:
 
-<img src="WIREFRAME.png"
+![alt text](WIREFRAME.png)
 
 Print da home-page criada para o projeto.
 
-![alt text](WIREFRAME.png)
+
